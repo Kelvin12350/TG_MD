@@ -43,7 +43,7 @@ function trackUser(id) {
   }
 }
 const adminIDs = JSON.parse(fs.readFileSync(adminFilePath, 'utf8'));
-const bot = new Telegraf(8416085069:AAF4Qzo0CtOGsZbg33lE236JFtuPMWmiw1I);
+const bot = new Telegraf(BOT_TOKEN);
 const premium_file = './premium.json';
 let premiumUsers = [];
 
