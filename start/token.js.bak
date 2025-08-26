@@ -1,0 +1,4 @@
+module.exports = {
+  BOT_TOKEN: '7656166207:AAF4JCpsImTSphZ1woVYPF013GEWFM0vZLc',  
+  startupPassword: 'richieishim'
+};
