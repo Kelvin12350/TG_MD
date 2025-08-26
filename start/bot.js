@@ -17,7 +17,7 @@ const os = require('os')
 const yts = require('yt-search');
 const { ytdl } = require('./lib/scrape/scrape-ytdl');
 const startpairing = require('./rentbot');
-const { BOT_TOKEN } = require('./token');
+const { 8416085069:AAF4Qzo0CtOGsZbg33lE236JFtuPMWmiw1I } = require('./token');
     const adminFilePath = './adminID.json';
 const bannedPath = './lib2/pairing/banned.json';
 // Helper to format runtime duration
@@ -43,7 +43,7 @@ function trackUser(id) {
   }
 }
 const adminIDs = JSON.parse(fs.readFileSync(adminFilePath, 'utf8'));
-const bot = new Telegraf(BOT_TOKEN);
+const bot = new Telegraf(8416085069:AAF4Qzo0CtOGsZbg33lE236JFtuPMWmiw1I);
 const premium_file = './premium.json';
 let premiumUsers = [];
 
