@@ -8,28 +8,28 @@ global.owner = ['62']
 global.xprefix = '.'
 global.gambar = "https://files.catbox.moe/zhbsht.jpg"
 global.OWNER_NAME = "@hmmletts" //
-global.DEVELOPER = ["7245395686"] //
-global.BOT_NAME = "AKANE MD"
+global.DEVELOPER = ["8135871264"] //
+global.BOT_NAME = "TD_MD"
 global.bankowner = "MOSES"
-global.creatorName = "𝕽𝖎𝖈𝖍𝖎𝖊"
-global.ownernumber = '2349151874246'  //creator number
+global.creatorName = "heatless"
+global.ownernumber = '2349039409985'  //creator number
 global.location = "Nigeria, Ogun-state, ilese"
 global.prefa = ['','!','.','#','&']
 //================DO NOT CHANGE OR YOU'LL GET AN ERROR=============\
-global.footer = "𝕽𝖎𝖈𝖍𝖎𝖊" //footer section
-global.link = "https://whatsapp.com/channel/0029Vav3pek65yD9mqSgd21B"
+global.footer = "heatless" //footer section
+global.link = "https://whatsapp.com/channel/0029Vb6QmBO3LdQSbKC7F145"
 global.autobio = true//auto update bio
-global.botName = "AKANE ⚡"
+global.botName = "TD_MD ⚡"
 global.version = "𝙑𝟭"
-global.botname = "AKANE MD"
-global.author = "𝗥𝗜𝗖𝗛𝗜𝗘"
+global.botname = "TD_MD"
+global.author = "heatless"
 global.themeemoji = '🀄'
-global.wagc = 'https://chat.whatsapp.com/BW2DeGMj0tVGbdgHFtHvj8'
-global.thumbnail = 'https://files.catbox.moe/l9gpzm.jpg'
+global.wagc = 'https://whatsapp.com/channel/0029Vb6QmBO3LdQSbKC7F145'
+global.thumbnail = 'https://cdn.kordai.biz.id/serve/HlEHZd6pgErX.jpg'
 global.packname = "Sticker By richie 🤡"
 global.author = "\n\n\n\n\nCreate by Richie\ntelegram : @hmmletts"
-global.creator = "2349151874246@s.whatsapp.net"
-global.ownername = '𝗥𝗜𝗖𝗛𝗜𝗘' 
+global.creator = "120363400223711119@newsletter"
+global.ownername = 'hestless' 
 global.onlyowner = `𝘴𝘰𝘳𝘳𝘺 𝘰𝘯𝘭𝘺 𝘧𝘰𝘳  𝘰𝘸𝘯𝘦𝘳𝘴
 𝘤𝘰𝘯𝘵𝘢𝘤𝘵 𝘙𝘪𝘤𝘩𝘪𝘦 𝘵𝘰 𝘣𝘦 𝘢𝘯 𝘰𝘸𝘯𝘦𝘳`
   // reply 
@@ -39,7 +39,7 @@ wait: "```WAIT FOR AKANE 🀄```",
    success: "𝑺𝒖𝒄𝒄𝒆𝒔𝒔 𝒂𝒌𝒂𝒏𝒆",
    on: "akane active bro", 
    prem: "FOR PREMIUM USERS ONLY ADD YOUR NUMBER TO DATABASE TO ACCESS PREMIUM", 
-   off: "Akane off",
+   off: "TD_MD off",
    query: {
        text: "Where's the text, man?",
        link: "Where's the link, bro?",
